@@ -1,7 +1,7 @@
 #######################################################################################
 # Yourname: Suttikiet Hattayasomboon
 # Your student ID: 65070240
-# Your GitHub Repo: 
+# Your GitHub Repo: https://github.com/65070240Suttikiet/NPA2023-Final
 
 #######################################################################################
 # 1. Import libraries for API requests, JSON formatting, time, and (restconf_final or netconf_final).
